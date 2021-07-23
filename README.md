@@ -21,6 +21,6 @@ https://mosarto.github.io/paymentapppage/
 
 ## Thanks 👏
 
-I have to thank [Sai krishna](https://www.figma.com/@Saikrishna)  for making this beautiful Music Player App design and posting in figma 🎆.
+I have to thank [Sai krishna](https://www.figma.com/@Saikrishna)  for making this beautiful Payment App design and posting in figma 🎆.
 
 Please share this Project! 🤝 😄
