@@ -9,7 +9,7 @@ https://mosarto.github.io/paymentapppage/
 
 ## Demo:
 
-<img src="https://raw.githubusercontent.com/Mosarto/paymentapp/main/demo/demo.gif" width="623" height="440" title="Screen Shoot">
+<img src="https://raw.githubusercontent.com/Mosarto/paymentapp/main/demo/demo.gif" width="700" height="440" title="Screen Shoot">
 
 <br/>
 ## Packages used:
